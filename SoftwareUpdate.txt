@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
