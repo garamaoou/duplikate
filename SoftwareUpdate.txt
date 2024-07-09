@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Feature: Create HUB Models from CLI or Python Script (#7316)
